@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PicUp-1.0.0:jar">
+    <output-path>$USER_HOME$/Documents/jarout</output-path>
+    <root id="archive" name="PicUp.jar">
+      <element id="module-output" name="PicUp" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/qiniu/qiniu-java-sdk/7.2.28/qiniu-java-sdk-7.2.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/squareup/okhttp3/okhttp/3.12.3/okhttp-3.12.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
